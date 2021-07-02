@@ -28,10 +28,10 @@ module.exports = {
             .setThumbnail(client.user.displayAvatarURL())
             .setTitle("HELP MENU")
         .addField("***Tutorial:***",`
-        >>> [\`Click here\`](https://youtu.be/KQXUEJgV5s0)
+        >>> [\`Click here\`]()
         `)
         .addField("***BOT BY:***",`
-        >>> <@442355791412854784> \`Tomato#6966\` [\`Website\`](https://avatix.eu/tomato/index.html)
+        >>> \`\` [\`Website\`](https://avatix.eu/tomato/index.html)
         `)
         .addField("***SUPPORT:***",`
         >>> [\`Server\`](https://discord.gg/fS6qBSm) | [\`Musicium - Website\`](https://musicium.eu) | [\`Invite\`](https://su.musicium.eu)
