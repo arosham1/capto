@@ -53,10 +53,10 @@ module.exports = {
         }
       ) 
       .addField("***BOT BY:***",`
-      >>> <@442355791412854784> \`Tomato#6966\`[\`Website\`](https://x10-gaming.eu)
+      >>>  \`\`[\`Website\`](https://x10-gaming.eu)
       `)
       .addField("***SUPPORT:***",`
-      >>> [\`Server\`](https://discord.gg/fS6qBSm) | [\`Musicium - Website\`](https://musicium.eu) | [\`Invite\`](https://su.musicium.eu/)
+      >>> [\`Server\`]() | [\`Musicium - Website\`](https://musicium.eu) | [\`Invite\`](https://su.musicium.eu/)
       `)
 
     
